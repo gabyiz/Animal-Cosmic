@@ -1,0 +1,17 @@
+body{
+margin: 0%;
+}
+.line{
+background-color: mediumpurple;
+height: 600px;
+display: grid;
+grid-template-columns: 100px;
+gap: 10px;
+}
+
+.line{
+background-color: blueviolet;
+border-radius: 10px;
+color: aliceblue;
+text-align: center;
+}
